@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="904px" height="150px" viewBox="0 0 904 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>line</title>
+    <desc>Created with Sketch.</desc>
+    <g id="line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="10">
+        <g id="Group-29" transform="translate(1.000000, -1.000000)" stroke="#CED5DE">
+            <path d="M287.862723,133 C342.641795,120.771458 384.059107,65.2273608 415.862723,23" id="Path-4"></path>
+            <path d="M2.13162821e-13,21.6999487 C31.0248233,67.7943771 129.169263,120.220482 187.862723,129" id="Path-2"></path>
+            <path d="M511.862723,7 C529.108734,7 540.851315,13.4712178 554.480391,21.4833483 C595.01935,45.3150038 624.113594,95.0569342 668.862723,114" id="Path-5"></path>
+            <path d="M763.862723,150 C780.938931,148.843907 795.569839,135.966342 805.493503,122.751673 C818.701414,105.163597 831.67411,87.363468 843.570001,68.8725251 C866.188787,33.7139433 869.298237,5.18798554 911.862723,0" id="Path-6"></path>
+        </g>
+    </g>
+</svg>

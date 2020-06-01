@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="108px" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Implementation</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="54" cy="54" r="50"></circle>
+        <filter x="-7.0%" y="-5.0%" width="114.0%" height="114.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14414882 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Implementation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+        <g id="Group-27" transform="translate(26.000000, 25.000000)">
+            <circle id="Oval" stroke="#14324C" cx="28.5" cy="28.5" r="14.5"></circle>
+            <polygon id="Path-14" stroke="#5295FF" stroke-width="1.5" points="34.6655083 5.43261225 39.4092094 7.41522095 43.6316247 3.18913399 53.3275413 12.8934818 48.1848718 17.3308121 50.1974191 22.0338538 56.5337491 22.0338538 56.5337491 33.4628435 50.1974191 33.4628435 48.1848718 39.6616274 52.346937 44.4964601 44.398037 52.4856456 39.4092094 48.6844232 34.6655083 50.7798435 34.6655083 57.7021775 22.857968 57.7021775 22.857968 51.7021775 16.4019326 48.6844232 12.9148566 52.4856456 4.42678691 44.4964601 8.44900401 40.7493353 5.51622131 34.5488249 5.82645043e-13 34.5488249 5.82645043e-13 23.739656 5.51622131 23.739656 8.44900401 17.3308121 4.42678691 12.8934818 11.5607693 5.43261225 15.8992181 10.0239166 21.8243578 7.41522095 21.8243578 0.78913399 33.6084353 4.58300065e-13"></polygon>
+        </g>
+    </g>
+</svg>

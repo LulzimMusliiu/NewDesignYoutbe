@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="108px" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Managed support</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="54" cy="52" r="50"></circle>
+        <filter x="-7.0%" y="-5.0%" width="114.0%" height="114.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14414882 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Managed-support" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+        <g id="Group-22" transform="translate(24.000000, 24.000000)">
+            <circle id="Oval" stroke="#5295FF" stroke-width="1.5" cx="30" cy="30" r="30"></circle>
+            <circle id="Oval" stroke="#224361" cx="30" cy="30" r="18"></circle>
+            <path d="M44.4,19.2 L54,12" id="Path-17" stroke="#14324C" stroke-width="1.5"></path>
+            <path d="M15.6,42 L7.2,49.2" id="Path-18" stroke="#14324C" stroke-width="1.5"></path>
+            <path d="M7.2,10.8 L15.6,18" id="Path-19" stroke="#14324C" stroke-width="1.5"></path>
+            <path d="M43.2,42 L52.8,49.2" id="Path-20" stroke="#14324C" stroke-width="1.5"></path>
+        </g>
+    </g>
+</svg>

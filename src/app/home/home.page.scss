@@ -1,0 +1,16 @@
+ion-ripple-effect{
+  display: none!important;
+  opacity: 0!important;
+  background: transparent!important;
+  --color-checked: #d3d3d3;
+  --ripple-color: #d3d3d3;
+}
+.button-native{
+}
+.lmaosvg{
+  // svg{object-fit: cover;width:100%;}
+}
+
+.toggle-icon{
+  box-shadow: 0 0 0 1px #fff!important;
+}

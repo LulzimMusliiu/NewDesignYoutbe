@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="108px" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Onboarding</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="54" cy="54" r="50"></circle>
+        <filter x="-7.0%" y="-5.0%" width="114.0%" height="114.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14414882 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Onboarding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+        <g id="Group-34" transform="translate(23.000000, 30.000000)">
+            <g id="Group-33" transform="translate(29.961038, 21.933751) rotate(-117.000000) translate(-29.961038, -21.933751) translate(14.961038, 6.933751)" stroke="#5295FF" stroke-dasharray="30">
+                <path d="M15,20.8695652 C18.2416714,20.8695652 20.8695652,18.2416714 20.8695652,15 C20.8695652,11.7583286 18.2416714,9.13043478 15,9.13043478 C11.7583286,9.13043478 9.13043478,11.7583286 9.13043478,15 C9.13043478,18.2416714 11.7583286,20.8695652 15,20.8695652 Z" id="Oval"></path>
+                <path d="M15,26.0869565 C21.123157,26.0869565 26.0869565,21.123157 26.0869565,15 C26.0869565,8.87684299 21.123157,3.91304348 15,3.91304348 C8.87684299,3.91304348 3.91304348,8.87684299 3.91304348,15 C3.91304348,21.123157 8.87684299,26.0869565 15,26.0869565 Z" id="Oval"></path>
+                <path d="M15,30 C23.2842712,30 30,23.2842712 30,15 C30,6.71572875 23.2842712,0 15,0 C6.71572875,0 0,6.71572875 0,15 C0,23.2842712 6.71572875,30 15,30 Z" id="Oval"></path>
+            </g>
+            <rect id="Rectangle" stroke="#5295FF" x="2.75" y="0.5" width="57.75" height="43.7058824" rx="1"></rect>
+            <path d="M10.2485745,29.3393141 C10.1695191,29.3412573 10.1056891,29.4045022 10.1030182,29.4835364 L9.16536317,57.2291692 C9.1653086,57.2314371 9.1653086,57.2314371 9.16534228,57.2337054 C9.16639734,57.2766295 9.2020495,57.3105711 9.24497361,57.309516 C9.32402906,57.3075729 9.387859,57.2443279 9.39052993,57.1652937 L10.328185,29.419661 C10.3282395,29.4173931 10.3282395,29.4173931 10.3282059,29.4151248 C10.3271508,29.3722006 10.2914986,29.3382591 10.2485745,29.3393141 Z" id="Rectangle" stroke="#14324C" fill="#D8D8D8" transform="translate(9.746774, 43.324415) rotate(36.000000) translate(-9.746774, -43.324415) "></path>
+            <polygon id="Path-43" fill="#14324C" points="17.5 33.0711774 17.5 30.0711774 20.5579704 33.0711774"></polygon>
+        </g>
+    </g>
+</svg>
